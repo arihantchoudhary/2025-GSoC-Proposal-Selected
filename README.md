@@ -20,9 +20,7 @@ Liftover_2D will develop a fast and effective tool for converting chromatin inte
 - Robust handling of unmappable regions and coordinate conversion edge cases
 - Clean integration with the Open2C ecosystem and its existing toolchain
 
-### Demo
-
-A comprehensive demo is available in the Jupyter Notebook: Liftover_2D_A_Comprehensive_Demo.ipynb
+The implementation is available at: [github.com/heilcheng/liftover_2d](https://github.com/heilcheng/liftover_2d)
 
 ## Comprehensive Benchmark Suite for Gemma Models (Google DeepMind)
 
