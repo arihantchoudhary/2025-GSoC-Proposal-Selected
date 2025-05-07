@@ -1,7 +1,8 @@
 # Google Summer of Code 2025 Proposal
 
 ![Screenshot 2025-05-07 at 7 03 19 PM](https://github.com/user-attachments/assets/fb7adce4-5eef-4661-a291-4f663c96a61b)
-Updated on 7 May: Get selected by Google DeepMind for Gemma project.
+
+Updated on 7 May: Get selected by Google DeepMind for Gemma project!!!
 
 This repository contains my proposals and demonstration code for Google Summer of Code 2025. I have submitted three project proposals:
 
