@@ -1,4 +1,4 @@
-# Google Summer of Code 2025 Proposal
+# Google Summer of Code 2025 Proposal for Google DeepMind
 
 Update on May 7: Got selected by Google DeepMind for the Gemma project!
 
@@ -16,7 +16,7 @@ https://github.com/google-deepmind/gemma/issues/244
 Feel free to reach out. And good luck to anyone applying for the 2026 batch!
 
 
-## Comprehensive Benchmark Suite for Gemma Models (Google DeepMind)
+## Comprehensive Benchmark Suite for Gemma Models 
 
 ### Project Overview
 
