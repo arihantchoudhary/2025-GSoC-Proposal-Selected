@@ -2,9 +2,25 @@
 
 ![Screenshot 2025-05-07 at 7 03 19 PM](https://github.com/user-attachments/assets/fb7adce4-5eef-4661-a291-4f663c96a61b)
 
-Updated on 7 May: Get selected by Google DeepMind for Gemma project!!!
+Update on May 7: Got selected by Google DeepMind for the Gemma project!!!
 
-This repository contains my proposals and demonstration code for Google Summer of Code 2025. I have submitted three project proposals:
+Update on May 8: Got rejected by two other orgs lol.
+
+I’m planning to make all my proposals public in case anyone’s curious about the GSoC application process.
+
+Here’s what I submitted for DeepMind, without any PRs contributed:
+
+- A proposal
+- A demo repo (linked in the proposal)
+- A blog post (shared under the [demo] tag in the issue section of the Gemma repo):
+https://github.com/google-deepmind/gemma/issues/244
+
+Feel free to reach out — and good luck to anyone applying for the 2026 batch!
+
+
+This repository contains my proposals and demonstration code for Google Summer of Code 2025.
+
+## I have submitted three project proposals:
 
 1. **Liftover_2D: Fast Chromatin Interaction Coordinate Conversion (Open2C)**
 2. **Comprehensive Benchmark Suite for Evaluating Gemma Models (Google DeepMind)**
