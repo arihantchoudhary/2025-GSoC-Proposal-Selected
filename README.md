@@ -40,5 +40,3 @@ The benchmark suite is structured with a modular architecture:
 - Visualization components for generating charts and reports
 
 The implementation is available at: [github.com/heilcheng/gemma-benchmark](https://github.com/heilcheng/gemma-benchmark)
-
-*These proposals are submitted for Google Summer of Code 2025.*
