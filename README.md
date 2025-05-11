@@ -1,5 +1,9 @@
 # Google Summer of Code 2025 Proposal for Google DeepMind
 
+My blog on Medium: 
+
+https://medium.com/@heilcheng2-c/how-i-landed-a-google-deepmind-project-in-google-summer-of-code-2025-a-step-by-step-guide-ccb2dee66769
+
 Update on May 7: Got selected by Google DeepMind for the Gemma project!
 
 Update on May 8: Got rejected by two other orgs lol.
