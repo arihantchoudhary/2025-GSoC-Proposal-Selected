@@ -1,6 +1,8 @@
 # Google Summer of Code 2025 Proposal for Google DeepMind
 
-My blog on Medium: 
+My blog on Medium:
+
+(How I Landed a Google DeepMind Project in Google Summer of Code 2025: A Step-by-Step Guide)
 
 https://medium.com/@heilcheng2-c/how-i-landed-a-google-deepmind-project-in-google-summer-of-code-2025-a-step-by-step-guide-ccb2dee66769
 
